@@ -1,0 +1,16 @@
+PODS:
+  - XMCategory (0.1.0)
+
+DEPENDENCIES:
+  - XMCategory (from `../`)
+
+EXTERNAL SOURCES:
+  XMCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XMCategory: 24862214094f12f292b7a233c12e986a002dfb19
+
+PODFILE CHECKSUM: 8fb75fcf112377e99ffac378695a6044505967d3
+
+COCOAPODS: 1.5.0.beta.1
